@@ -1,5 +1,5 @@
 # Mautic theme
-A basic theme for Mautic, the open-source marketing automation suite. It includes styling of **forms** and **popup items**. Basic styling of emails and pages is included to be completed at a later stage. To use the popup styling, install this theme and set it as default in your configuration settings: (...)/s/config/edit/ > Themes.
+A basic theme for Mautic, the open-source marketing automation suite. It includes styling of **forms** and **popup items**. Basic styling of emails and pages is included to be completed at a later stage. To use the popup styling, download the [ZIP-file](https://github.com/Custonext/mautic-theme/releases/tag/0.0.1) here and set the theme as default in your configuration settings: (...)/s/config/edit/ > Themes.
 
 ## Popups (formerly known as Focus items)
 The existing styling of Mautic popups is not great. This theme includes some adjustments to make it a bit more modern. The usual styling of text and button colors is available in basic mode. If you want, you can also customize it by using the editor or custom HTML.
