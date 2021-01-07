@@ -18,3 +18,9 @@ The existing styling of Mautic popups is not great. This theme includes some adj
 
 ## Form
 ![Notification Bar](https://raw.githubusercontent.com/Custonext/mautic-theme/main/img/form.png)
+
+
+## Need help?
+Contact us at [Custonext.nl](https://www.custonext.nl/contact)
+
+[![Custonext](https://raw.githubusercontent.com/Custonext/mautic-theme/main/img/custonext.png)](https://www.custonext.nl)
