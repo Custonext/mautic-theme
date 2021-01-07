@@ -1,0 +1,10 @@
+{
+  "name": "Great Template",
+  "author": "Custonext",
+  "authorUrl": "https://www.custonext.nl",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}
